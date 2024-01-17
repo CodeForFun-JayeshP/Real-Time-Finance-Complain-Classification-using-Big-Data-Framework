@@ -8,4 +8,4 @@ Complaints can give us insights into problems people are experiencing in the mar
 After the complain inserted to box it predict the class from which the complain belongs.
 <br>
 <br>
-![web2](https://github.com/CodeForFun-JayeshP/Real-Time-Finance-Complain-Classification-using-Big-Data-Framework/assets/73586740/6607ada2-9e40-4355-a948-1753fe3d46bd)
+![web2](https://github.com/CodeForFun-JayeshP/Real-Time-Finance-Complain-Classification-using-Big-Data-Framework/assets/73586740/da7d293a-8726-4e04-a593-b99c7e10b0dd)
